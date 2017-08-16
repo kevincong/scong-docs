@@ -10,7 +10,7 @@ Welcome to scong's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   resume
 
 Indices and tables
 ==================
