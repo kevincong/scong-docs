@@ -1,28 +1,24 @@
 Resume
 ======
-
-Objective
----------
-
-* Looking for a senior level role to enhance my experience in the field of software developing where my knowledge will have valuable application and utilization. The job type could be either full-time, part-time or contract. 
-
+* Email: congkevin@gmail.com
+* LinkedIn: https://www.linkedin.com/in/shen-cong-48b15944/
+* GitHub: https://github.com/kevincong
 
 Summary of Qualification
 ------------------------
-* Balanced proficiency with Python, C/C++ and Java, able to adapt new languages quickly when needed.
-* 4-year professional experience with backend python based WSGI web frameworks (eg. Tornado, webapp2). Familiar with server side coding with REST APIs, SQL (eg. PostgreSQL, MySQL), NoSQL (eg. MongoDB).
-* Solid knowledge on some advanced backend concepts including OAuth, memcache, cron job, task queue, index search, faceted search, publish/subscribe design pattern.
-* Experienced with Python deployment automation tool (eg. Fabric, setuptools). Familiar with deployment with large scale, including load balancing, clusters, containers (eg. Docker), container management tools (eg. Kubernetes).
-* Understand the concepts for distributed system for big data. Experienced with processing batch and streaming data analysis using Apache Spark and Google Cloud Dataflow. Know some basic machine learning methods, experienced with Spark MLlib.
+
+* Balanced proficiency with Python_, `C/C++`_ and Java_, able to adapt new programming languages quickly when needed.
+* 4-year professional experience with backend Python based WSGI_ web frameworks (eg. Tornado_, webapp2_). Solid knowledge on some advanced backend concepts including OAuth, memcache, cron job, task queue, index search, faceted search, publish/subscribe design pattern. Familiar with SQL (eg. PostgreSQL, MySQL) and NoSQL (eg. MongoDB, Google Cloud Datastore).
+* Experienced with Python deployment automation tool (eg. Fabric, setuptools). Familiar with deployment with large scale, including load balancing, containers (eg. Docker), container management tools (eg. Kubernetes).
+* Understand the concepts for distributed system with big data. Experienced with processing batch and streaming data analysis using Apache Spark MLlib and Google Cloud Dataflow.
 * Basic understanding on machine learning, deep learning and AI.
-* Experienced with several modern front-end web technologies including HTML, JS, CSS, React+Redux, AngularJS, jQuery, RequireJS, Sass/Less, Twitter Bootstrap.
-* Familiar with command line environment, source control (eg. GitHub) and Vim, JIRA AGILE project management tools, marketing analysis tools (eg. Sendgrid, Mixpanel etc.)
+* Experienced with several modern front-end web technologies including HTML, JavaScript, CSS, React+Redux, AngularJS, jQuery, RequireJS, Sass/Less, Twitter Bootstrap.
+* Familiar with command line environment, source control (eg. Git) and Vim, JIRA AGILE project management tools, marketing analytics tools (eg. Sendgrid, Mixpanel etc.)
 * Experienced with both Google Cloud Platform and Amazon AWS.
 * Type-B personality; wide breadth of knowledge; high sense of responsibility; detail-oriented; self discipline; strong ability of self-learning; enthusiastic team worker. 
 
-
 Work Experience
-----------
+---------------
 
 * Full Stack Developer, Vendorhero Inc. Toronto, ON, December 2015 - March 2017
     * Prototype and develop the core product of the online ordering platform called Chefhero that connects restaurants with multiple food vendors. Lead developer and architect with its admin system, responsible for both frontend and backend using series of products in the Google Cloud Platform.
@@ -37,7 +33,7 @@ Work Experience
     * Key role on prototyping and developing the patented browser plugin (Omni Layer) on modern browsers (eg. Chrome, Firefox XUL). 
 
 
-* Web Application Developer, IBM Canada, Markham, ON, Dec 2011 - Aug 2012
+* Web Application Developer, IBM Canada, Markham, ON, December 2011 - August 2012
     * 8-month internship. Develop and maintain the website for Center of Advanced Studies (CAS) Research department.
     * Involved developing a dynamic website for annual conference CASCON. The website allows user to register and login to the system, submit workshop/exhibition proposals online. Also an administrator system used by staff members to review user’s submissions.
     * Responsible for develop and maintain the static informational website of the department for both external and internal.
@@ -54,4 +50,12 @@ Activities and Interests
 ------------------------
 
 * Strong interest in modern web technologies and big data. Attended online courses on Coursera, edX, Udacity and Udemy for topics like big data, machine learning and ReactJS.
-* Enjoy playing piano, badminton, snooker, tennis and running. Participated in Toronto Waterfront Marathon Run, White Oak Tennis Club, Badminton Club.
+* Enjoy playing piano, badminton, snooker, tennis and running. Participated in Toronto Waterfront Marathon Run, White Oak Tennis Club, UW Badminton Club.
+
+
+.. _Python: http://python.org
+.. _C/C++: http://www.cplusplus.com/
+.. _Java: https://www.java.com/en/
+.. _WSGI: https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
+.. _Tornado: http://www.tornadoweb.org/en/stable/
+.. _webapp2: https://webapp2.readthedocs.io/en/latest/
