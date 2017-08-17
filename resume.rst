@@ -8,14 +8,13 @@ Summary of Qualification
 ------------------------
 
 * Balanced proficiency with Python_, `C/C++`_ and Java_, able to adapt new programming languages quickly when needed.
-* 4-year professional experience with backend Python based WSGI_ web frameworks (eg. Tornado_, webapp2_). Solid knowledge on some advanced backend concepts including OAuth, memcache, cron job, task queue, index search, faceted search, publish/subscribe design pattern. Familiar with SQL (eg. PostgreSQL, MySQL) and NoSQL (eg. MongoDB, Google Cloud Datastore).
-* Experienced with Python deployment automation tool (eg. Fabric, setuptools). Familiar with deployment with large scale, including load balancing, containers (eg. Docker), container management tools (eg. Kubernetes).
-* Understand the concepts for distributed system with big data. Experienced with processing batch and streaming data analysis using Apache Spark MLlib and Google Cloud Dataflow.
-* Basic understanding on machine learning, deep learning and AI.
-* Experienced with several modern front-end web technologies including HTML, JavaScript, CSS, React+Redux, AngularJS, jQuery, RequireJS, Sass/Less, Twitter Bootstrap.
-* Familiar with command line environment, source control (eg. Git) and Vim, JIRA AGILE project management tools, marketing analytics tools (eg. Sendgrid, Mixpanel etc.)
-* Experienced with both Google Cloud Platform and Amazon AWS.
-* Type-B personality; wide breadth of knowledge; high sense of responsibility; detail-oriented; self discipline; strong ability of self-learning; enthusiastic team worker. 
+* 4-year professional experience with backend Python based WSGI_ web frameworks (eg. Tornado_, webapp2_, Flask_). Solid knowledge on some advanced backend concepts including OAuth_, memcache_, `cron job`_, `task queue`_, `index search`_, `faceted search`_, `pub/sub`_. Familiar with SQL_ (eg. PostgreSQL_, MySQL_) and NoSQL_ (eg. MongoDB_, `Google Cloud Datastore`_).
+* Experienced with Python deployment automation tool (eg. Fabric_, setuptools_). Familiar with deployment with large scale, including nginx_ load balancing, containers(eg. Docker_), container management tools (eg. Kubernetes_).
+* Understand the concepts of distributed system. Experienced both `Google Cloud Platform`_ and `Amazon AWS`_ cloud computing platforms.
+* Basic understanding on `machine learning`_, `deep learning`_ and AI_. Experienced with processing batch and streaming data analytics using `Apache Spark MLlib`_, `Google Cloud BigQuery`_ and `Google Cloud Dataflow`_.
+* Experienced with several modern front-end web technologies including HTML_, JavaScript_, CSS_, React_ \+ Redux_, AngularJS_, jQuery_, RequireJS_, Sass_/Less_, `Twitter Bootstrap`_.
+* Familiar with command line environment, source control (eg. Git_) and Vim_, JIRA_ AGILE_ project management tools, marketing analytics tools (eg. Sendgrid_, Mixpanel_ etc.)
+* `Type-B`_ personality; wide breadth of knowledge; high sense of responsibility; detail-oriented; self discipline; strong ability of self-learning; enthusiastic team worker. 
 
 Work Experience
 ---------------
@@ -59,3 +58,48 @@ Activities and Interests
 .. _WSGI: https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
 .. _Tornado: http://www.tornadoweb.org/en/stable/
 .. _webapp2: https://webapp2.readthedocs.io/en/latest/
+.. _Flask: https://flask.pocoo.org/
+.. _OAuth: https://oauth.net/2/
+.. _memcache: https://cloud.google.com/appengine/docs/standard/python/memcache/
+.. _cron job: https://cloud.google.com/appengine/docs/standard/python/config/cron
+.. _task queue: https://cloud.google.com/appengine/docs/standard/python/taskqueue/
+.. _index search: https://cloud.google.com/appengine/training/fts_intro/
+.. _faceted search: https://cloud.google.com/appengine/docs/standard/python/search/faceted_search
+.. _pub/sub: https://cloud.google.com/pubsub/
+.. _SQL: https://en.wikipedia.org/wiki/SQL
+.. _PostgreSQL: https://www.postgresql.org/
+.. _MySQL: https://www.mysql.com/
+.. _NoSQL: https://en.wikipedia.org/wiki/NoSQL
+.. _MongoDB: https://www.mongodb.com/
+.. _Google Cloud Datastore: https://cloud.google.com/datastore/
+.. _Fabric: http://www.fabfile.org/
+.. _setuptools: https://setuptools.readthedocs.io/en/latest/
+.. _nginx: https://nginx.org/en/docs/
+.. _Docker: https://www.docker.com/
+.. _Kubernetes: https://kubernetes.io/
+.. _Google Cloud Platform: https://cloud.google.com/
+.. _Amazon AWS: https://aws.amazon.com/
+.. _machine learning: https://en.wikipedia.org/wiki/Machine_learning
+.. _deep learning: https://en.wikipedia.org/wiki/Deep_learning
+.. _AI: https://en.wikipedia.org/wiki/Artificial_intelligence
+.. _Apache Spark MLlib: https://spark.apache.org/docs/latest/ml-guide.html
+.. _Google Cloud BigQuery: https://cloud.google.com/bigquery/
+.. _Google Cloud Dataflow: https://cloud.google.com/dataflow/
+.. _HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+.. _JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+.. _CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+.. _React: https://facebook.github.io/react/docs/hello-world.html
+.. _Redux: http://redux.js.org/
+.. _AngularJS: https://angularjs.org/
+.. _jQuery: http://api.jquery.com/
+.. _RequireJS: http://requirejs.org/
+.. _Sass: http://sass-lang.com/
+.. _Less: http://lesscss.org/
+.. _Twitter Bootstrap: https://getbootstrap.com/
+.. _Git: https://git-scm.com/
+.. _Vim: http://www.vim.org/
+.. _JIRA: https://www.atlassian.com/software/jira
+.. _AGILE: https://en.wikipedia.org/wiki/Agile_software_development
+.. _Sendgrid: https://sendgrid.com/
+.. _Mixpanel: https://mixpanel.com/
+.. _Type-B: https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory
