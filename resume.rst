@@ -1,5 +1,7 @@
+======
 Resume
 ======
+
 * Email: congkevin@gmail.com
 * LinkedIn: https://www.linkedin.com/in/shen-cong-48b15944/
 * GitHub: https://github.com/kevincong

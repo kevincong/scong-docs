@@ -19,3 +19,12 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+Links:
+======
+* Sphinx: http://www.sphinx-doc.org/
+* ReadTheDocs: http://docs.readthedocs.io/
+* reStructuredText: http://www.sphinx-doc.org/en/stable/rest.html
+* reStructuredText online: http://rst.ninjs.org/
+* LaTeX online: http://www.hostmath.com/
