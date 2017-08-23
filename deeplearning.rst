@@ -27,9 +27,9 @@ Neural Networks and Deep Learning
     b := b - \alpha\frac{\partial \mathcal{J}(w, b)}{\partial b}
 * :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}a} = -\frac{a}{y} + \frac{1-y}{1-a}, (note: a = \hat y)`.
 * :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}z} = a - y`.
-* :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}w_1} = x_1(a - y)
-* :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}w_2} = x_2(a - y)
-* :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}b} = a - y
+* :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}w_1} = x_1(a - y)`.
+* :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}w_2} = x_2(a - y)`.
+* :math:`\frac{\text{d}\mathcal{J(a, y)}}{\text{d}b} = a - y`.
 
 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coming Soon)
 ----------------------------------------------------------------------------------------------------
