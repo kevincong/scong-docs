@@ -14,7 +14,7 @@ Neural Networks and Deep Learning
 * Image vector: :math:`x = \begin{bmatrix}R_{1} R_{2} ... R_{n} G_{1} G_{2}  ...  G_{n} B_{1} B_{2} ... B_{n} \end{bmatrix}^T`. :math:`x \in R^{height*width*3}`. :math:`x = \begin{bmatrix}. & . & . & . \\. & . & . & .\\x^{(1)} & x^{(2)} & ... & x^{(m)} \\ . & . & . & .  \\ . & . & . & .  \end{bmatrix}`. :math:`Y = \begin{bmatrix}y^{(1)} & y^{(2)} & ... & y^{(m)} \end{bmatrix}`.
 * Sigmoid function: :math:`\sigma = g(z) = \frac{1}{1 + e^{-z}}`. Derivative: :math:`g(z)(1 - g(z))`.
 * :math:`\hat y = \sigma(w^{T}x + b)`.
-* Loss function, :math:`\mathcal{L}(\hat y, y) = - (y \log\hat{y} + (1 - y) \log(1 - \hat y))`
+* Loss function, :math:`\mathcal{L}(\hat y, y) = - (y \log\hat{y} + (1 - y) \log(1 - \hat y))`.
     * if y = 1, :math:`\mathcal{L}(\hat y, y) = - (\log\hat{y})`, want :math:`\hat y` large.
     * if y = 0, :math:`\mathcal{L}(\hat y, y) = - (\log(1 - \hat{y}))`, want :math:`\hat y` small.
 * Cost function,
