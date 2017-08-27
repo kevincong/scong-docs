@@ -27,4 +27,4 @@ Links:
 * ReadTheDocs: http://docs.readthedocs.io/
 * reStructuredText: http://www.sphinx-doc.org/en/stable/rest.html
 * reStructuredText online: http://rst.ninjs.org/
-* LaTeX online: http://www.hostmath.com/
+* LaTeX formula online: http://www.hostmath.com/
