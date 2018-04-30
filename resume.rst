@@ -10,13 +10,13 @@ Summary of Qualification
 ------------------------
 
 * Balanced proficiency with Python_, Java_ and `C/C++`_, able to adapt new programming languages quickly when needed.
-* 4-year professional experience with back-end Python based WSGI_ web frameworks (eg. Tornado_, webapp2_, Flask_). Familiar with SQL_ (eg. PostgreSQL_, MySQL_) and NoSQL_ (eg. MongoDB_, `Google Cloud Datastore`_).
-* Strong ability to code in distributed computing framework, such as `Apache Spark`_ and Hadoop `MapReduce`_. Familiar with the `Hadoop`_ ecosystem and `Google Cloud`_ ecosystem for processing big data.
+* 4-year professional experience with back-end Python based WSGI_ web frameworks (eg. Tornado_, webapp2_, Flask_). Familiar with SQL_ (eg. PostgreSQL_, MySQL_) and NoSQL_ (eg. MongoDB_, `Google Cloud Datastore`_). Experienced with several modern front-end web technologies including HTML_, JavaScript_, CSS_, React_ \+ Redux_, AngularJS_, jQuery_, RequireJS_, Sass_/Less_, `Twitter Bootstrap`_.
+* Familiar with command line environment, source control (eg. Git_) and Vim_, JIRA_ AGILE_ project management tools.
+* Strong ability to code in distributed computing framework, such as `Apache Spark`_ and `MapReduce`_. Familiar with the `Hadoop`_ ecosystem and `Google Cloud`_ ecosystem for processing big data.
 * Solid understanding of common `machine learning`_ algorithms, `neural networks`_. Familiar with `Numpy`_, `Pandas`_, `TensorFlow`_, `Keras`_, `iPython Notebook`_, `LaTeX`_, etc. Experienced with batch and streaming data mining processing using `Apache Spark MLlib`_, `Google Cloud BigQuery`_ and `Google Cloud Dataflow`_.
 * Experienced with Python deployment automation tool (eg. Fabric_, setuptools_). Familiar with deployment with large scale, including nginx_ load balancing, containers (eg. Docker_), container management tools (eg. Kubernetes_).
 * Experienced both `Google Cloud Platform`_ and `Amazon AWS`_ cloud computing platforms.
-* Experienced with several modern front-end web technologies including HTML_, JavaScript_, CSS_, React_ \+ Redux_, AngularJS_, jQuery_, RequireJS_, Sass_/Less_, `Twitter Bootstrap`_.
-* Familiar with command line environment, source control (eg. Git_) and Vim_, JIRA_ AGILE_ project management tools.
+* Strong mathematical background, familiar with advanced topics in statistics, linear algebra, calculus and optimization.
 * Strong communication, presentation and technical writing skills; wide breadth of knowledge; high sense of responsibility; detail-oriented; self discipline; strong ability of self-learning; enthusiastic team worker. 
 
 Work Experience
@@ -43,7 +43,7 @@ Education
 ---------
 
 * `Bachelor of Computer Science`_, `University of Waterloo`_, 2008 - 2013, 2017 - 2018
-    * Focused on Machine Learning, Artificial Intelligence, Data-Intensive Distributed Computing, Distributed Systems, Numeric Computation for Financial Modeling.
+    * Focused on `Machine Learning`_, `Artificial Intelligence`_, `Data-Intensive Distributed Computing`_, `Distributed Systems`_, `Numeric Computation for Financial Modeling`_.
 * `A.Y.Jackson Secondary School`_, North York, ON, 2005 - 2008
 
 
@@ -112,8 +112,11 @@ Activities and Interests
 .. _Google Cloud Pub\/Sub: https://cloud.google.com/pubsub/
 .. _Google Cloud Dataproc: https://cloud.google.com/dataproc/
 .. _WhoKnows Inc.: https://corp.whoknows.com/
+.. _OAuth2: https://oauth.net/2/
 .. _IMAP connector: https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
 .. _BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/
+.. _Mixpanel: https://mixpanel.com/
+.. _HubSpot: https://www.hubspot.com/
 .. _Omni Layer: http://www.google.com/patents/US20140279821
 .. _Chrome Extensions: https://developer.chrome.com/extensions
 .. _Firefox XUL: https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL
@@ -123,6 +126,11 @@ Activities and Interests
 
 .. _Bachelor of Computer Science: https://cs.uwaterloo.ca/
 .. _University of Waterloo: https://uwaterloo.ca/
+.. _Machine Learning: https://cs.uwaterloo.ca/~y328yu/mycourses/489/index.html
+.. _Artificial Intelligence: https://cs.uwaterloo.ca/~jhoey/teaching/cs486/
+.. _Data-Intensive Distributed Computing: https://lintool.github.io/bigdata-2018w/index.html
+.. _Distributed Systems: https://cs.uwaterloo.ca/~alkiswan/Classes/CS454/index.html
+.. _Numeric Computation for Financial Modeling: https://www.student.cs.uwaterloo.ca/~cs476/
 .. _A.Y.Jackson Secondary School: http://schoolweb.tdsb.on.ca/ayjackson/
 .. _Coursera: https://www.coursera.org/
 .. _edX: https://www.edx.org/
