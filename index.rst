@@ -30,6 +30,3 @@ Links:
 * reStructuredText online: http://rst.ninjs.org/
 * LaTeX formula online: http://www.hostmath.com/
 
-* CS489: https://cs.uwaterloo.ca/~y328yu/mycourses/489/lecture.html
-* CS370: https://piazza.com/uwaterloo.ca/fall2017/cs370/resources
-* CS343: https://www.student.cs.uwaterloo.ca/~cs343/
