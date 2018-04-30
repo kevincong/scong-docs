@@ -62,7 +62,7 @@ Activities and Interests
 .. _WSGI: https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
 .. _Tornado: http://www.tornadoweb.org/en/stable/
 .. _webapp2: https://webapp2.readthedocs.io/en/latest/
-.. _Flask: https://flask.pocoo.org/
+.. _Flask: http://flask.pocoo.org/
 .. _SQL: https://en.wikipedia.org/wiki/SQL
 .. _PostgreSQL: https://www.postgresql.org/
 .. _MySQL: https://www.mysql.com/

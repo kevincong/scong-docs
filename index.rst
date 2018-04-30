@@ -11,6 +11,7 @@ Shen Cong
    :caption: Contents:
 
    resume
+   machinelearning
    deeplearning
 
 Indices and tables
