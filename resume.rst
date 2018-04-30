@@ -43,7 +43,7 @@ Education
 ---------
 
 * `Bachelor of Computer Science`_, `University of Waterloo`_, 2008 - 2013, 2017 - 2018
-    * Focused on `Machine Learning`_, `Artificial Intelligence`_, `Data-Intensive Distributed Computing`_, `Distributed Systems`_, `Numeric Computation for Financial Modeling`_.
+    * Focused on `Intro to Machine Learning`_, `Artificial Intelligence`_, `Data-Intensive Distributed Computing`_, `Distributed Systems`_, `Numeric Computation for Financial Modeling`_.
 * `A.Y.Jackson Secondary School`_, North York, ON, 2005 - 2008
 
 
@@ -126,7 +126,7 @@ Activities and Interests
 
 .. _Bachelor of Computer Science: https://cs.uwaterloo.ca/
 .. _University of Waterloo: https://uwaterloo.ca/
-.. _Machine Learning: https://cs.uwaterloo.ca/~y328yu/mycourses/489/index.html
+.. _Intro to Machine Learning: https://cs.uwaterloo.ca/~y328yu/mycourses/489/index.html
 .. _Artificial Intelligence: https://cs.uwaterloo.ca/~jhoey/teaching/cs486/
 .. _Data-Intensive Distributed Computing: https://lintool.github.io/bigdata-2018w/index.html
 .. _Distributed Systems: https://cs.uwaterloo.ca/~alkiswan/Classes/CS454/index.html
