@@ -22,18 +22,18 @@ Summary of Qualification
 Work Experience
 ---------------
 
-* Full Stack Developer, `Chefhero Inc.`_, Toronto, ON, December 2015 - March 2017
+* Full Stack Developer, `Chefhero Inc.`_, Toronto, ON, 2015 - 2017
     * Prototype and develop the core product of the online ordering platform called Chefhero that connects restaurants with multiple food vendors. Lead developer and architect with its admin system, responsible for both frontend and backend using series of products in the `Google Cloud Platform`_.
     * Research and develop a recommender system for Chefhero using `Google Cloud Pub\/Sub`_, `Google Cloud Dataflow`_, `Google Cloud Dataproc`_ with `Apache Spark MLlib`_.
     * Discover a semi-automated data recovery method using `Google Cloud BigQuery`_, which eventually becomes the major data source for the data analytics team.
 
-* Full Stack Developer, `WhoKnows Inc.`_, Toronto, ON, July 2013 - November 2015
+* Full Stack Developer, `WhoKnows Inc.`_, Toronto, ON, 2013 - 2015
     * A 5-10 people agile startup company which focus on expertise auto-discovery and collaboration, based on tracking user web browsing activities. 
     * Design and develop web server back end with Python Tornado_. Also experienced MongoDB_ data migration, OAuth2_ integration with LinkedIn, Google, `IMAP connector`_, Webpage scraping using BeautifulSoup_, and analytics tracking by using Mixpanel_, HubSpot_.
     * Develop client side web interface. eg. user profile page, signup/login page, admin system pages, invite pages, using some front-end frameworks such as AngularJS_, Less_, jQuery_.
     * Key role on prototyping and developing the patented browser plugin (`Omni Layer`_) on modern browsers (eg. `Chrome Extensions`_, `Firefox XUL`_). 
 
-* Web Application Developer, `IBM Canada`_, Markham, ON, December 2011 - August 2012
+* Web Application Developer, `IBM Canada`_, Markham, ON, 2012
     * 8-month internship. Develop and maintain the website for `Center of Advanced Studies`_ (CAS) Research department.
     * Involved developing a dynamic website for annual conference CASCON_. The website allows user to register and login to the system, submit workshop/exhibition proposals online. Also an administrator system used by staff members to review user’s submissions.
     * Responsible for develop and maintain the static informational website of the department for both external and internal.
@@ -42,7 +42,7 @@ Work Experience
 Education
 ---------
 
-* `Bachelor of Computer Science`_, `University of Waterloo`_, 2008 - 2013, 2017 - 2018
+* `Bachelor of Computer Science`_, `University of Waterloo`_, 2008 - 2012, 2017 - 2018
     * Focused on `Intro to Machine Learning`_, `Artificial Intelligence`_, `Data-Intensive Distributed Computing`_, `Distributed Systems`_, `Numeric Computation for Financial Modeling`_.
 * `A.Y.Jackson Secondary School`_, North York, ON, 2005 - 2008
 
