@@ -11,11 +11,11 @@ Summary of Qualification
 
 * Balanced proficiency with Python_, Java_ and `C/C++`_, able to adapt new programming languages quickly when needed.
 * 4-year professional experience with back-end Python based WSGI_ web frameworks (eg. Tornado_, webapp2_, Flask_). Familiar with SQL_ (eg. PostgreSQL_, MySQL_) and NoSQL_ (eg. MongoDB_, `Google Cloud Datastore`_). Experienced with several modern front-end web technologies including HTML_, JavaScript_, CSS_, React_ \+ Redux_, AngularJS_, jQuery_, Sass_/Less_, `Twitter Bootstrap`_.
-* Familiar with command line environment, source control (eg. Git_) and Vim_, JIRA_ AGILE_ project management tools.
-* Strong ability to code in distributed computing framework, such as `Apache Spark`_ and `MapReduce`_. Familiar with the `Hadoop`_ ecosystem and `Google Cloud`_ ecosystem for processing big data.
+* Strong ability to code in distributed computing framework, such as `Apache Spark`_ (Scala) and `MapReduce`_ (Java). Familiar with the `Hadoop`_ ecosystem and `Google Cloud`_ ecosystem for processing big data.
 * Solid understanding of common `machine learning`_ algorithms, `neural networks`_. Familiar with `Numpy`_, `Pandas`_, `TensorFlow`_, `Keras`_, `iPython Notebook`_, `LaTeX`_, etc. Experienced with batch and streaming data mining processing using `Apache Spark MLlib`_, `Google Cloud BigQuery`_ and `Google Cloud Dataflow`_.
 * Experienced with Python deployment automation tool (eg. Fabric_, setuptools_). Familiar with deployment with large scale, including nginx_ load balancing, containers (eg. Docker_), container management tools (eg. Kubernetes_).
 * Experienced both `Google Cloud Platform`_ and `Amazon AWS`_ cloud computing platforms.
+* Familiar with command line environment, source control (eg. Git_) and Vim_, JIRA_ AGILE_ project management tools.
 * Strong mathematical background, familiar with common topics in statistics, linear algebra, calculus and optimization.
 * Strong communication, presentation and technical writing skills; wide breadth of knowledge; high sense of responsibility; detail-oriented; self discipline; strong ability of self-learning; enthusiastic team worker. 
 
